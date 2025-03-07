@@ -1,4 +1,4 @@
-# Prácticas de Computación Forense  
+# Encuantra los mensajes
 
 ## Diferentes formatos: mp3, txt, tar.gz, wav.  
 
@@ -13,3 +13,4 @@ Procedo a realizar la práctica en el siguiente orden.
 1. Analizamos el archivo **"exercise2.tar.gz"** con el comando:  
    ```bash
    file *
+[![Whats-App-Image-2025-03-03-at-9-42-19-PM.jpg](https://i.postimg.cc/gc3GTQqN/Whats-App-Image-2025-03-03-at-9-42-19-PM.jpg)](https://postimg.cc/QVxLB6zT)
